@@ -1,18 +1,18 @@
 Hello my name is Mikko.
 I am studying Software developement at Gradia.
 
-###Languages
+### Languages
 - C#
 - HTML
 - JavaScript
 - Python
 - CSS
 
-###Tools
+### Tools
 - Microsoft excel, word, powerpoint, sway.
 - Visual studio code/community
 - git
 - XAMPP
 
-####CONTACT ME
+#### CONTACT ME
 Email: mikkelsson2006@gmai.com
