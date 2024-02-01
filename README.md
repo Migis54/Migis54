@@ -1,16 +1,18 @@
-### Hi there 👋
+Hello my name is Mikko.
+I am studying Software developement at Gradia.
 
-<!--
-**Migis54/Migis54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Languages
+- C#
+- HTML
+- JavaScript
+- Python
+- CSS
 
-Here are some ideas to get you started:
+###Tools
+- Microsoft excel, word, powerpoint, sway.
+- Visual studio code/community
+- git
+- XAMPP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+####CONTACT ME
+Email: mikkelsson2006@gmai.com
