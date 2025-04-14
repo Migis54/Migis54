@@ -18,4 +18,4 @@ I've been interested in coding since I was young
 - XAMPP
 
 #### CONTACT ME
-Email: mikkelsson2006@gmai.com
+Email: mikkelsson2006@gmail.com
