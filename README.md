@@ -1,8 +1,7 @@
 ### About Me
 Hello my name is Mikko.
-I am studying Software developement at Gradia.
-I play games as a hobby
-I've been interested in coding since I was young
+I am studying Software engineering at Samk.
+
 
 ### Languages
 - C#
